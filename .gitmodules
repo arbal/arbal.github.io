@@ -1,0 +1,3 @@
+[submodule "awesome-stars"]
+	path = awesome-stars
+	url = https://github.com/arbal/awesome-stars.git
